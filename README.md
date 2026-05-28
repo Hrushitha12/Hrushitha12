@@ -1,5 +1,61 @@
-# 💫 About Me:
-I’m currently working on…<br>LLM-based robustness testing research inspired by TestForge, experimenting with prompt design, compilation filtering, and evaluation pipelines for automated test case generation. Alongside that, I build end-to-end data engineering & analytics systems using Spark, AWS, and ML pipelines.<br><br>I’m looking to collaborate on…<br>AI/ML research projects, data engineering pipelines (batch + streaming), LLM evaluation frameworks, and applied ML systems that move beyond theory into production-ready experimentation.<br><br>I’m looking for help with…<br>Publishing research, strengthening cloud-native ML architecture skills, and preparing for AI/ML Engineer or Data Engineer roles. Also open to guidance on turning academic research into industry-impact work.<br><br>I’m currently learning…<br>Robustness testing methodologies, structured LLM benchmarking, advanced Spark optimizations, AWS data services (Glue, Athena, Lambda), and scalable ML deployment practices.<br><br>Ask me about…<br>LLM-generated test cases, Spark Structured Streaming, building analytics dashboards, designing reproducible research workflows, or balancing grad school + research + part-time work without losing ambition.<br><br>Fun fact…<br>I’m graduating with my twin sister in May 2026 — and I treat my research repos like products, not assignments 🚀
+# Hi, I'm Hrushitha 👋
+
+**Data Scientist & AI Researcher** with experience building production ML systems, LLM evaluation frameworks, and agentic AI pipelines. I turn complex data problems into deployed, measurable solutions.
+
+MS Computer Science (Data Science) from UNC Charlotte · Previously Data Scientist at CVS Health and TCS · AWS Certified Data Engineer · 2 IEEE publications
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrushitha12.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hrushitha12.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hrushitha--tigulla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrushitha-tigulla)
+[![Email](https://img.shields.io/badge/Email-hrushithat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrushithat@gmail.com)
+
+---
+
+### 🔬 What I Work On
+
+- **LLM Evaluation & Robustness** — Built [RobustnessPilot]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/llm_robustness_test_diversity)), an automated framework that executed 38 evaluation runs across 3 LLMs (14B–70B params), generating 663 tests across 23 failure modes. First-authored paper submitted to IEEE SRDS 2026.
+- **Agentic AI Systems** — Architected a [5-agent API test suite generator]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/agentic-test-generator)) using CrewAI, MCP, and A2A Protocol with GPT-4o/Claude Sonnet routing via LiteLLM. Exposed as an MCP server for Claude Desktop tool invocation.
+- **Production RAG & NLP** — Built a [legal research assistant]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/legal-rag-api)) over 22,809 court opinion vectors using LangChain, LangGraph, and Qdrant — 277% retrieval improvement, ~30% reduction in hallucinated citations.
+
+---
+
+### 📄 Publications
+
+| Paper | Venue | Year |
+|-------|-------|------|
+| **LLM-Based Robustness Testing of Microservice Applications** (First Author) | IEEE SRDS 2026 | 2026 |
+| **Crop Yield Prediction using ML & Deep Learning** | [IEEE] (https://ieeexplore.ieee.org/document/10689872)| 2024 |
+| **Legal Precedent Retrieval using Sentence Embeddings and Clustering** | [arXiv:2406.01609](https://arxiv.org/abs/2406.01609) | 2024 |
+
+---
+
+### 🛠️ Tech Stack
+
+**ML & AI:** Python · PyTorch · TensorFlow · Scikit-Learn · XGBoost · PySpark MLlib · Hugging Face Transformers
+
+**LLMs & Agents:** LangChain · LangGraph · CrewAI · MCP · A2A Protocol · RAG · Prompt Engineering · LLM Evaluation · RAGAS
+
+**Data:** SQL · Pandas · NumPy · Snowflake · Spark SQL · Tableau · Streamlit · Matplotlib
+
+**Infrastructure:** FastAPI · Docker · AWS (SageMaker, Lambda, S3) · MLflow · Qdrant · Git · CI/CD · Airflow
+
+---
+
+### 🏆 Certifications
+
+<a href="https://www.credly.com"><img src="https://img.shields.io/badge/AWS-Certified_Data_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Data Engineer"/></a>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Hrushitha12&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushitha12&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+
 
 
 ## 🌐 Socials:
