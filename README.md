@@ -1,10 +1,10 @@
 # Hi, I'm Hrushitha 👋
 
-**Data Scientist & AI Researcher** with experience building production ML systems, LLM evaluation frameworks, and agentic AI pipelines. I turn complex data problems into deployed, measurable solutions.
+**AI Researcher** with experience building production ML systems, LLM evaluation frameworks, and agentic AI pipelines. I turn complex data problems into deployed, measurable solutions.
 
 MS Computer Science (Data Science) from UNC Charlotte  · AWS Certified Data Engineer · 2 IEEE publications
 
-(https://hrushitha12.github.io/Portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrushitha--tigulla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrushitha-tigulla)
 [![Email](https://img.shields.io/badge/Email-hrushithat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrushithat@gmail.com)
 
