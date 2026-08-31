@@ -4,7 +4,7 @@
 
 MS Computer Science (Data Science) from UNC Charlotte  · AWS Certified Data Engineer · 2 IEEE publications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hrushitha12.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hrushitha12.github.io/Portfolio/)
+(https://hrushitha12.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrushitha--tigulla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrushitha-tigulla)
 [![Email](https://img.shields.io/badge/Email-hrushithat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrushithat@gmail.com)
 
