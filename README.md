@@ -1,19 +1,18 @@
 # Hi, I'm Hrushitha 👋
 
-**AI Researcher** with experience building production ML systems, LLM evaluation frameworks, and agentic AI pipelines. I turn complex data problems into deployed, measurable solutions.
-
-MS Computer Science (Data Science) from UNC Charlotte  · AWS Certified Data Engineer · 2 IEEE publications
-
-
-
+MS Computer Science (Data Science) from UNC Charlotte · 2 IEEE publications
 
 ---
 
-### 🔬 What I Work On
+## 🔭 What I work on
+- Backend and distributed systems
+- LLM-based testing and evaluation
+- Agentic AI systems with RAG
 
-- **LLM Evaluation & Robustness** — Built [RobustnessPilot]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/llm_robustness_test_diversity)), an automated framework that executed 38 evaluation runs across 3 LLMs (14B–70B params), generating 663 tests across 23 failure modes. First-authored paper submitted to IEEE SRDS 2026.
-- **Agentic AI Systems** — Architected a [5-agent API test suite generator]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/agentic-test-generator)) using CrewAI, MCP, and A2A Protocol with GPT-4o/Claude Sonnet routing via LiteLLM. Exposed as an MCP server for Claude Desktop tool invocation.
-- **Production RAG & NLP** — Built a [legal research assistant]([https://github.com/Hrushitha12](https://github.com/Hrushitha12/legal-rag-api)) over 22,809 court opinion vectors using LangChain, LangGraph, and Qdrant — 277% retrieval improvement, ~30% reduction in hallucinated citations.
+## 📄 Publication
+**LLM-Based Robustness Testing of Microservice Applications: An Empirical Study**
+IEEE SRDS 2026, First Author
+Code and data: [llm_robustness_test_diversity](https://github.com/Hrushitha12/llm_robustness_test_diversity)
 
 ---
 
@@ -27,15 +26,12 @@ MS Computer Science (Data Science) from UNC Charlotte  · AWS Certified Data Eng
 
 ---
 
-### 🛠️ Tech Stack
-
-**ML & AI:** Python · PyTorch · TensorFlow · Scikit-Learn · XGBoost · PySpark MLlib · Hugging Face Transformers
-
-**LLMs & Agents:** LangChain · LangGraph · CrewAI · MCP · A2A Protocol · RAG · Prompt Engineering · LLM Evaluation · RAGAS
-
-**Data:** SQL · Pandas · NumPy · Snowflake · Spark SQL · Tableau · Streamlit · Matplotlib
-
-**Infrastructure:** FastAPI · Docker · AWS (SageMaker, Lambda, S3) · MLflow · Qdrant · Git · CI/CD · Airflow
+## 🛠 Tech Stack
+**Languages:** Python, Java, SQL
+**Backend:** FastAPI, REST APIs, Microservices
+**Cloud:** AWS, Docker, Kubernetes, GitHub Actions
+**Databases:** MongoDB, PostgreSQL, Qdrant
+**AI/LLM:** LangGraph, LangChain, RAG, LLM Evaluation
 
 ---
 
